@@ -2,7 +2,7 @@
 
 LexiGuard AI is a cutting-edge artificial intelligence solution designed to revolutionize legal and compliance operations within the banking industry. It provides a comprehensive suite of tools for automated document drafting and review, real-time compliance and risk flagging, and an unassailable audit trail with data lineage. The platform emphasizes clear governance, a thorough human review process, robust reporting controls, and efficient investigation workflow management. At its core, LexiGuard AI ensures data classification and minimization, operating within a well-defined AI Governance Operating Model to maintain trust, security, and regulatory adherence. The frontend is a visually stunning, intuitive web application, built on Cloudflare's edge network, ensuring lightning-fast performance and global availability.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/LexiGuard-20251015-034259)
 
 ## Key Features
 
@@ -123,4 +123,4 @@ LexiGuard AI is designed for deployment on Cloudflare Workers.
 
 Alternatively, you can use the Cloudflare Deploy button:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/LexiGuard-20251015-034259)
